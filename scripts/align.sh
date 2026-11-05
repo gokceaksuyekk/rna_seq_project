@@ -1,5 +1,7 @@
 #!/bin/bash
 
+threads=4
+
 STAR \
   --genomeDir genome_index \
   --readFilesIn sample_R1.fastq.gz sample_R2.fastq.gz \
