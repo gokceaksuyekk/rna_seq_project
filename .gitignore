@@ -1,0 +1,9 @@
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+*.cram
+*.crai
+results/
+*.tmp
+.DS_Store
